@@ -35,7 +35,7 @@
 <h2 margin="30px">⚙️ Languages </h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,cpp,java,python,dart,csharp" />
+    <img src="https://skillicons.dev/icons?i=js,cpp,java,python,dart,cs" />
   </a>
 </p>
 
