@@ -49,7 +49,7 @@
 <h2 margin="30px">🛠️ Tools </h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,postman,linux,aws,vercel,netlify,azure,gcp,githubactions" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,postman,linux,aws,vercel,netlify,azure,gcp,githubactions,docker,kubernetes" />
   </a>
 </p>
 
