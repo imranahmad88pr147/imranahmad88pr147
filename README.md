@@ -21,21 +21,21 @@
 <h2 margin="30px">🌐 Frontend </h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,next,html,css,tailwind" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,next,html,css,tailwind,flutter" />
   </a>
 </p>
 
 <h2 margin="30px">⚙️ Backend </h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,expressjs,fastapi" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express" />
   </a>
 </p>
 
 <h2 margin="30px">⚙️ Languages </h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,cpp,java,python" />
+    <img src="https://skillicons.dev/icons?i=js,cpp,java,python,dart,csharp" />
   </a>
 </p>
 
