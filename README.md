@@ -21,14 +21,14 @@
 <h2 margin="30px">🌐 Frontend </h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,next,html,css,sass,tailwind" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,next,html,css,tailwind" />
   </a>
 </p>
 
 <h2 margin="30px">⚙️ Backend </h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,nest,flask" />
+    <img src="https://skillicons.dev/icons?i=nodejs,expressjs,fastapi" />
   </a>
 </p>
 
