@@ -42,14 +42,14 @@
 <h2 margin="30px">🗄️ Databases </h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
   </a>
 </p>
 
 <h2 margin="30px">🛠️ Tools </h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,postman,linux,aws,vercel,netlify" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,postman,linux,aws,vercel,netlify,azure,gcp,githubactions" />
   </a>
 </p>
 
