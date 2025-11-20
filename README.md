@@ -1,7 +1,74 @@
 ![logo]( https://github.com/imranahmad88pr147/imranahmad88pr147/blob/main/Imran's%20Banner.png)
 
-- 🌱 I’m currently learning Database Management Systems.
-- 📫 How to reach me: imranahmad88pr147@gmail.com
-- ⚡ Fun fact: I used to do problem solving in my mind mostly in my leisure hours (like while watching movies, driving car) along with my coding hours.
- 
+# 👋 Hi, I’m Imran Ahmad
+
+**Software Engineer | MERN Stack Developer | DevOps Engineer**
+
+---
+
+## 🎓 About Me  
+- I am a **Software Engineering student at FAST-NUCES**, currently in my **7th semester (4th year)**.  
+- Passionate **MERN stack developer**, focused on building scalable and modern web apps.  
+- Experienced in **DevOps**, having worked as a DevOps Intern and currently contributing to **real-world DevOps projects** involving cloud, CI/CD, automation, and containerized deployments.  
+- Always learning and improving — combining development + DevOps to build end-to-end production systems.
+
+---
+
+## 🛠 Tech Stack
+
+# 💻 Tech Stack:
+
+<h2 margin="30px">🌐 Frontend </h2>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,next,html,css,sass,tailwind" />
+  </a>
+</p>
+
+<h2 margin="30px">⚙️ Backend </h2>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,nest,flask" />
+  </a>
+</p>
+
+<h2 margin="30px">⚙️ Languages </h2>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,cpp,java,python" />
+  </a>
+</p>
+
+<h2 margin="30px">🗄️ Databases </h2>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase" />
+  </a>
+</p>
+
+<h2 margin="30px">🛠️ Tools </h2>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,git,postman,linux,aws,vercel,netlify" />
+  </a>
+</p>
+
+---
+
+## 🎮 Hobbies  
+- Playing **video games**  
+- **Book reading**  
+- Watching **movies**, especially thrillers and sci-fi  
+
+---
+
+## 📫 Contact  
+- **Email:** imranahmad88pr147@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/imran-ahmad-4b9723299  
+- **GitHub:** https://github.com/imranahmad88pr147  
+
+---
+
+⭐ *Thanks for visiting my profile! Feel free to explore my repositories or reach out anytime.*  
+
 
