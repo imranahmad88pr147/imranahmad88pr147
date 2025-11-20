@@ -28,7 +28,7 @@
 <h2 margin="30px">⚙️ Backend </h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,csharp,python" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,cs,python" />
   </a>
 </p>
 
