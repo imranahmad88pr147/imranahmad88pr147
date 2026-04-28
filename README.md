@@ -7,10 +7,12 @@
 ---
 
 ## 🎓 About Me  
-- I am a **Software Engineering student at FAST-NUCES**, currently in my **7th semester (4th year)**.  
-- Passionate **MERN stack developer**, focused on building scalable and modern web apps.  
-- Experienced in **DevOps**, having worked as a DevOps Intern and currently contributing to **real-world DevOps projects** involving cloud, CI/CD, automation, and containerized deployments.  
-- Always learning and improving — combining development + DevOps to build end-to-end production systems.
+- I am a **Software Engineering student at FAST-NUCES**, currently in my **final year (8th semester)**.  
+- A **DevOps-focused developer** with hands-on experience in Docker, CI/CD (GitHub Actions), and cloud deployments on Microsoft Azure.  
+- Completed a **DevOps internship at AlphaBridge** and further worked on a **real-world client project (Italy-based)** under a Senior DevOps Engineer.  
+- Skilled in **containerization, automation, and Infrastructure as Code (Terraform)**, with practical experience in deploying and managing cloud-native applications.  
+- Also experienced in **MERN stack development**, enabling me to build and deploy **end-to-end production-ready systems**.  
+- Continuously learning and exploring **Kubernetes, cloud platforms, and scalable system design**.  
 
 ---
 
