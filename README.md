@@ -7,18 +7,12 @@
 ---
 
 ## 🎓 About Me
-I am a Software Engineering student at FAST-NUCES, currently in my final year (8th semester).
-
-A DevOps-focused developer with hands-on experience in Docker, CI/CD (GitHub Actions), and cloud deployments on Microsoft Azure, along with practical exposure to AWS (RDS, basic deployments).
-
-Completed a DevOps internship at AlphaBridge and further worked on a real-world client project (Italy-based) under a Senior DevOps Engineer.
-
-Skilled in containerization, automation, and Infrastructure as Code (Terraform), with experience deploying and managing cloud-native applications.
-
-Also experienced in MERN stack development, enabling me to build and deploy end-to-end production-ready systems.
-
-Continuously learning and exploring Kubernetes, cloud platforms, and scalable system design.
-
+- I am a Software Engineering student at FAST-NUCES, currently in my final year (8th semester).
+- A DevOps-focused developer with hands-on experience in Docker, CI/CD (GitHub Actions), and cloud deployments on Microsoft Azure, along with practical exposure to AWS (RDS, basic deployments).
+- Completed a DevOps internship at AlphaBridge and further worked on a real-world client project (Italy-based) under a Senior DevOps Engineer.
+- Skilled in containerization, automation, and Infrastructure as Code (Terraform), with experience deploying and managing cloud-native applications.
+- Also experienced in MERN stack development, enabling me to build and deploy end-to-end production-ready systems.
+- Continuously learning and exploring Kubernetes, cloud platforms, and scalable system design.
 ---
 
 ## 🛠 Tech Stack
